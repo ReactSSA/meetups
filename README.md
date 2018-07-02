@@ -2,7 +2,7 @@
 
 **28/06/2018 - 4ª Edição: A pedra no sapato do front-end**  
 Workshop por [@clarabatt](https://github.com/clarabatt) & [@paulatavares16](https://github.com/paulatavares16)  
-Slide
+[Slide](https://slides.com/claraverenabattesini/pedras-no-sapato#/)
 
 **07/06/2018 - 3ª Edição: Redux vs MobX - Gerenciadores de estado para React**  
 Workshop por [@arthur-souza](https://github.com/arthur-souza) & [@vhfmag](https://github.com/vhfmag)  
