@@ -1,5 +1,9 @@
 # Meetups
 
+**19/07/2018 - 5ª Edição: Estruturando componentes**  
+Workshop por [@lucianomlima](https://github.com/lucianomlima) & [@rodrigopr](https://github.com/rodrigopr)  
+[Slide](http://slides.com/lucianolima/estruturando-componentes#/)
+
 **28/06/2018 - 4ª Edição: A pedra no sapato do front-end**  
 Workshop por [@clarabatt](https://github.com/clarabatt) & [@paulatavares16](https://github.com/paulatavares16)  
 [Slide](https://slides.com/claraverenabattesini/pedras-no-sapato#/)
