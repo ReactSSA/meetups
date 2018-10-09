@@ -2,6 +2,7 @@
 
 **30/08/2018 - 7ª Edição: Testes em componentes e aplicações React**  
 Speaker: [@andrewsmedina](https://github.com/andrewsmedina)  
+[Video](https://www.youtube.com/watch?v=rmM0gMYs5aQ)
 
 **02/08/2018 - 6ª Edição: GraphQL - A evolução do REST**  
 Speaker: [@matheusrocha89](https://github.com/matheusrocha89)  
