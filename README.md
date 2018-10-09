@@ -1,5 +1,8 @@
 # Meetups
 
+**30/08/2018 - 7ª Edição: Testes em componentes e aplicações React**  
+Speaker: [@andrewsmedina](https://github.com/andrewsmedina)  
+
 **02/08/2018 - 6ª Edição: GraphQL - A evolução do REST**  
 Speaker: [@matheusrocha89](https://github.com/matheusrocha89)  
 [Slide](http://slides.com/matheuscruzrocha/graphql-2#/) • [GraphQL + Firestore Example](https://github.com/matheusrocha89/graphql-with-firestore-example)
