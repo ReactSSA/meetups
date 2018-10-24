@@ -1,7 +1,7 @@
 # Meetups
 
 **30/08/2018 - 8ª Edição: Javascript com tipos**  
-Speakers: [@vhfmag](https://github.com/vhfmag) e [@dygufa](https://github.com/dygufa)
+Speakers: [@vhfmag](https://github.com/vhfmag) e [@dygufa](https://github.com/dygufa)  
 [Slide](http://slides.com/vhfmag/javascript-tipado/)
 
 **30/08/2018 - 7ª Edição: Testes em componentes e aplicações React**  
