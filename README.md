@@ -1,7 +1,8 @@
 # Meetups
 
 **27/11/2018 - 9ª Edição: O que há de novo no React?**
-Speakers: [@thiagoarmede](https://github.com/thiagoarmede) e [@dygufa](https://github.com/dygufa)  
+Speakers: [@thiagoarmede](https://github.com/thiagoarmede) e [@dygufa](https://github.com/dygufa)
+[Slide](https://dygufa.com/react16-features-presentation/dist/#0)
 
 **23/10/2018 - 8ª Edição: Javascript com tipos**  
 Speakers: [@vhfmag](https://github.com/vhfmag) e [@dygufa](https://github.com/dygufa)  
