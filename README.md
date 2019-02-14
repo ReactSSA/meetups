@@ -1,5 +1,9 @@
 # Meetups
 
+**12/02/2019 - 10ª Edição: Testando uma aplicação React na prática**   
+Speaker: [@murtinha](https://github.com/murtinha)   
+[Vídeo](https://www.youtube.com/watch?v=s7NIluQKOWE) • [Repositório](https://github.com/ReactSSA/meetup10)
+
 **27/11/2018 - 9ª Edição: O que há de novo no React?**   
 Speakers: [@thiagoarmede](https://github.com/thiagoarmede) e [@dygufa](https://github.com/dygufa)   
 [Slide](https://dygufa.com/react16-features-presentation/dist/#0)
