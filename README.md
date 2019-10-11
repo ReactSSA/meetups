@@ -1,5 +1,17 @@
 # Meetups
 
+**03/10/2019 - 17ª Edição: Apollo, o framework graphql que cobre até a lua!!**   
+Speaker: [@linzera](https://github.com/linzera)   
+[Vídeo](https://youtu.be/Tjxo1UTFmv0) • [Repositório](https://github.com/linzera/bifrost-graphql)
+
+**27/08/2019 - 16ª Edição: Gerenciamento de formulários com Formik**   
+Speaker: [@dygufa](https://github.com/dygufa)   
+[Slide](https://dygufa.com/formik-presentation/dist/#0) • [Vídeo](https://youtu.be/bH7mqcTPDdo)
+
+**23/07/2019 - 15ª Edição: Usando Cypress para testes end-to-end**   
+Speaker: [@gabrielgene](https://github.com/gabrielgene)   
+[Vídeo](https://youtu.be/RldvuEdNYW8)
+
 **13/06/2019 - 14ª Edição: React Native with Animations!**   
 Speaker: [@pedrorosarioo](https://github.com/pedrorosarioo)   
 [Slide](https://slides.com/pedrojesusdorosario/deck-4/fullscreen) • [Vídeo](https://www.youtube.com/watch?v=xMSDDXWxcZg) • [Repositório](https://github.com/pedrorosarioo/meetupanimations)
