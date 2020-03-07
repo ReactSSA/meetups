@@ -1,5 +1,17 @@
 # Meetups
 
+**03/03/2020 - 20ª Edição: Introdução a ReasonML e ReasonReact**   
+Speaker: [@gugahoa](https://github.com/gugahoa)   
+Vídeo (Em breve) • [Repositório](https://github.com/gugahoa/reasonml-talk-react-ssa)
+
+**30/01/2020 - 19ª Edição: Criando páginas velozes para a web com Gatsby**   
+Speaker: [@Chiiip](https://github.com/Chiiip)   
+[Slide](https://chiiip.github.io/Apresentacao-Gatsby/) • [Vídeo](https://youtu.be/IEO8OYd8YF4) • [Repositório](https://github.com/Chiiip/Apresentacao-Gatsby)
+
+**28/11/2019 - 18ª Edição: Design Systems - Biblioteca de Componentes Reutilizáveis com React**   
+Speaker: [@mdapper](https://github.com/mdapper)   
+[Slide](https://slides.com/marcelodapper/reusable-component-library-with-react/fullscreen) • [Vídeo](https://youtu.be/r9RstIEG3Oc) • [Repositório](https://github.com/mdapper/react-components-library)
+
 **03/10/2019 - 17ª Edição: Apollo, o framework graphql que cobre até a lua!!**   
 Speaker: [@linzera](https://github.com/linzera)   
 [Vídeo](https://youtu.be/Tjxo1UTFmv0) • [Repositório](https://github.com/linzera/bifrost-graphql)
